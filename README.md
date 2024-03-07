@@ -1,4 +1,4 @@
-
+![logo](https://github.com/arindom10/arindom10/blob/main/Banner-image.jpeg)
 <!--
 **arindom10/arindom10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
